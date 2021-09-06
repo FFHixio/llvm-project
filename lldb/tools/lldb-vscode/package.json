@@ -22,7 +22,7 @@
 	],
 	"private": true,
 	"devDependencies": {
-		"@types/node": "7.0.43",
+		"@types/node": "7.10.14",
 		"@types/mocha": "2.2.45",
 		"typescript": "2.6.2",
 		"mocha": "4.0.1",
