@@ -24,7 +24,7 @@
 	"devDependencies": {
 		"@types/node": "7.0.43",
 		"@types/mocha": "2.2.45",
-		"typescript": "2.6.2",
+		"typescript": "2.9.2",
 		"mocha": "4.0.1",
 		"vscode": "1.1.10",
 		"vscode-debugadapter-testsupport": "1.25.0",
